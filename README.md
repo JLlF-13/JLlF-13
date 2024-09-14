@@ -1,11 +1,14 @@
-<h2 align="left">Hi 👋! My name is Joan I am from the Earth 🌍</h2>
+<h2 align="left">Hi 👋! My name is Joan and I'm a from Earth🌍</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLlF-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false" height="129" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="129" alt="languages graph"  />
-</div>
+<p align="left">Text is not texting</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="125" src="https://media1.tenor.com/m/EUvKqrUtjZoAAAAC/sousou-no-frieren-frieren-anime.gif"  />
 
 ###
 
@@ -16,24 +19,28 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />-->
+  <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/EUvKqrUtjZoAAAAC/sousou-no-frieren-frieren-anime.gif"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/ozekkeu8udlmtg5nlmq4c8nvk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ozekkeu8udlmtg5nlmq4c8nvk&count=2&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ozekkeu8udlmtg5nlmq4c8nvk&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
