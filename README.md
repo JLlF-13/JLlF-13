@@ -40,12 +40,6 @@
 
 ###-->
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JLlF-13/JLlF-13/output/snake.svg" alt="Snake animation" />
-
-###
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ozekkeu8udlmtg5nlmq4c8nvk&count=3)
 
 ###
