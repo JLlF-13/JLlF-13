@@ -1,8 +1,15 @@
-<h2 align="left">Hi 👋! My name is Joan.</h2>
+<h2 align="left">Hi 👋! My name is Joan I am from the Earth 🌍</h2>
 
 ###
 
-<img align="right" height="121" src="https://media1.tenor.com/m/EUvKqrUtjZoAAAAC/sousou-no-frieren-frieren-anime.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JLlF-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/EUvKqrUtjZoAAAAC/sousou-no-frieren-frieren-anime.gif"  />
 
 ###
 
@@ -13,28 +20,35 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <!--<img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <!--<img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />-->
 </div>
 
 ###
 
-<!-- <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-</div> -->
+<!--<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###-->
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JLlF-13/JLlF-13/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/JoanLlF_13">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JoanLlF_13&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JoanLlF_13&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
