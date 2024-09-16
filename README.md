@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joan and I'm a from Earth🌍</h2>
+<h2 align="left">Hi 👋! My name is Joan and I'm from Earth🌍</h2>
 
 ###
 
@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
