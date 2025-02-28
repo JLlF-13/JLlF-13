@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Joan and I'm from Earth🌍</h2>
 
 ###
-
+<p align="left">Well jokes aside </p>
 <p align="left">Text is not texting ... </p>
 <p align="left">Basic and medium knowledge of the languages down here</p>
 
