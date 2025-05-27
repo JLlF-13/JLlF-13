@@ -3,7 +3,7 @@
 ###
 <p align="left">Well jokes aside </p>
 <p align="left">Text is not texting ... </p>
-<p align="left">Basic and medium knowledge of the languages down here</p>
+<p align="left">Basic and medium knowledge of the languages and technologies down here</p>
 
 ###
 
