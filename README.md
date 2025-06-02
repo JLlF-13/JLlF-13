@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Well jokes aside </p>
+<p align="left">Well jokes aside</p>
 
 <!--<p align="left">Text is not texting ... </p>-->
 
@@ -14,6 +14,15 @@
 <p align="left">
   I have a basic to intermediate understanding of the technologies listed below, and I'm always working to get better at them.
 </p>
+
+<!--<p align="left">
+  I'm passionate about anime 🎌, Star Wars ✨, and video games 🎮, but above all, I'm a dedicated and hardworking person. I enjoy learning new things and constantly pushing myself to improve. 
+  Whether I'm writing code 💻 or exploring fictional worlds 🌌, I always give my best.
+</p>
+
+<p align="left">
+  I have a basic to intermediate understanding of the technologies listed below, and I'm always working to get better at them. 📚
+</p>-->
 
 ###
 
@@ -52,8 +61,8 @@
 <!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  /> -->
-</div>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  /> 
+</div> -->
 
 ###
 
@@ -77,10 +86,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ozekkeu8udlmtg5nlmq4c8nvk&count=3&width=1000" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=6&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
