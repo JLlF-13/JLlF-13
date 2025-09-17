@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joan and I'm from Earth🌍</h2>
+<h2 align="left">Hi 👋! I'm Joan — a curious developer from Earth 🌍</h2>
 
 ###
 
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=6&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=6&theme=apprentice&hide_border=true&order=2"     height="150" alt="languages graph"  />
 </div>
 
 <!-- ### 
