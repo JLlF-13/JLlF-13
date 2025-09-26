@@ -57,6 +57,10 @@
 </div>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
