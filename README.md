@@ -43,9 +43,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="30" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="md logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="30" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
