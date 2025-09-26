@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  I have a basic to intermediate understanding of the technologies listed below, and I'm always working to get better at them.
+  I have a basic to intermediate understanding of the technologies and programing languages listed below, and I'm always working to get better at them.
 </p>
 
 <!--<p align="left">
@@ -45,27 +45,30 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="md logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="30" alt="obsidian logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="cs logo"  />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="30" alt="obsidian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="12" />
 </div>
   
 <!--   <img width="12" />
@@ -87,6 +90,21 @@
   </a>
 </div>
 
+###
+
+<p align="left">
+  I usually work with this IDEs
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipse logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+</div>
 
 ###
 
