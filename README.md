@@ -54,10 +54,14 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="12" />
@@ -71,6 +75,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo" /> 
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /> 
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" /> 
+  <img width="12" /> 
 </div>
   
 <!--   <img width="12" />
@@ -94,7 +104,7 @@
 
 ###
 
-<p align="left">
+<!-- <p align="left">
   I usually work with this IDEs
 </p>
 
@@ -106,7 +116,7 @@
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -118,9 +128,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 <!-- ### 
 
