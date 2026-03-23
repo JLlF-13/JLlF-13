@@ -118,7 +118,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
 </div> -->
 
-###
+<!-- ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/ozekkeu8udlmtg5nlmq4c8nvk">
@@ -126,7 +126,7 @@
   </a>
 </div>
 
-<br>
+<br> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
