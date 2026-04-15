@@ -88,7 +88,7 @@
    
 </div> -->
 
-###
+<!-- ###
 
 <div align="center">
   <a href="mailto:joan.lluch.fonoll@gmail.com" style="color: inherit; text-decoration: none;">
@@ -102,7 +102,7 @@
   </a>
 </div>
 
-###
+### -->
 
 <!-- <p align="left">
   I usually work with this IDEs
