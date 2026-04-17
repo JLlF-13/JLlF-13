@@ -130,13 +130,15 @@
   <a href="https://open.spotify.com/user/ozekkeu8udlmtg5nlmq4c8nvk">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ozekkeu8udlmtg5nlmq4c8nvk&count=5&width=1000" alt="Spotify recently played"  />
   </a>
-</div>
-
-<br> -->
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div> -->
+
+<br> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLlF-13&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=JLlF-13&ard_width=1000&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  /> -->
+</div> 
 
 <!-- ### 
 
@@ -145,6 +147,12 @@
 </div> 
 
 ### -->
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
 
 <!--- 
 - 👋 Hi, I’m @JLlF-13
